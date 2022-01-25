@@ -2,7 +2,10 @@ node_modules
 package-lock.json
 .temp
 
+temp_auto_push.bat
 # Eleventy
 _dist
 _cache
 /_src/localStyles
+.gitignore
+branch_structure.json
